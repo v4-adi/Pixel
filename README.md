@@ -23,3 +23,4 @@ Basic Unit Testing
 **TODO:**
 More Unit Test Coverage
 Currently In-Memory cache is implemented. DISK cache can be implemented to improve user experience. 
+ProGuard rules
