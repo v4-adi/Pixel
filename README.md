@@ -14,14 +14,14 @@ Language: **Kotlin**
  -   Kotlin stdlib
  -   kotlin-android plugin
 
-**Features Implemented:**
+**Features Implemented:**<br/>
 Search images available on Flickr<br/>
 Endless Scrolling<br/>
 In Memory LRU Image cache <br/>
 Basic Unit Testing<br/>
 Error Handling
 
-**TODO:**
+**TODO:**<br/>
 More Unit Test Coverage .  
 Currently In-Memory cache is implemented. DISK cache can be implemented to improve user experience.<br/>
 ProGuard rules<br/>
