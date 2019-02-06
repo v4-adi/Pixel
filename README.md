@@ -15,9 +15,9 @@ Language: **Kotlin**
  -   kotlin-android plugin
 
 **Features Implemented:**
-Search images available on Flickr
-Endless Scrolling
-In Memory LRU Image cache 
+Search images available on Flickr<br/>
+Endless Scrolling<br/>
+In Memory LRU Image cache <br/>
 Basic Unit Testing<br/>
 Error Handling
 
