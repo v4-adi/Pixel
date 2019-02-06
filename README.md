@@ -21,6 +21,7 @@ In Memory LRU Image cache
 Basic Unit Testing
 
 **TODO:**
-More Unit Test Coverage
-Currently In-Memory cache is implemented. DISK cache can be implemented to improve user experience. 
+More Unit Test Coverage .  
+Currently In-Memory cache is implemented. DISK cache can be implemented to improve user experience.   
 ProGuard rules
+This app is currently tested only on Android 9. Testing needs to be done on other versions of Android. 
