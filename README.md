@@ -6,7 +6,7 @@ This version of the app is called Pixel.
  Allow users to search and browse images available on Flickr.
  Architecture:
  **Pixel follows Model View Presenter Architecture.** 
- This app is doesn't uses any architecture framework or third party libraries
+ This app doesn't uses any architecture framework or third party libraries
 
 Language: **Kotlin**
 
