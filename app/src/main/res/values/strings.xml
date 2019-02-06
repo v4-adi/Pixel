@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="something_went_wrong">Something went wrong, Try to search again!</string>
+</resources>
