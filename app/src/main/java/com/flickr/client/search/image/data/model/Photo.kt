@@ -10,5 +10,5 @@ data class Photo(
     val secret: String,
     val server: String,
     val title: String,
-    val photoUrl: String = "https://farm${farm}.static.flickr.com/${server}/${id}_${secret}.jpg"
+    val photoUrl: String = "https://farm${farm}.static.flickr.com/${server}/${id}_${secret}_n.jpg"
 )
